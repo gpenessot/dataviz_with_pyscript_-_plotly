@@ -83,8 +83,8 @@ Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
 Pour toute question ou suggestion, n'hésitez pas à me contacter :
 
-Nom : Gaël Penessot  
+LinkedIn : [Gaël Penessot](https://www.linkedin.com/in/gael-penessot/)  
 Email : gael.penessot@data-decision.io  
-GitHub : gpenessot  
+GitHub : [gpenessot](https://github.com/gpenessot)  
 
 Merci d'avoir consulté ce projet ! 🎉
