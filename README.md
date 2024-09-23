@@ -62,17 +62,17 @@ Les graphiques se mettront à jour automatiquement en fonction des données four
 
 Les données utilisées dans ce projet proviennent de sources fiables. Les fichiers CSV contiennent les informations nécessaires pour générer les graphiques.
 
-- globaltemp.csv : Données sur la température mondiale de 1880 à 2023.
-- hadcrutworld.csv : Données sur les émissions de CO2.
+- `globaltemp.csv` : Données sur la température mondiale de 1880 à 2023.
+- `hadcrutworld.csv` : Données sur les émissions de CO2.
 
 ## Contributions
 
 Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, veuillez suivre ces étapes :
 
 1. Forkez le projet.
-2. Créez une branche pour votre fonctionnalité (git checkout -b feature/ma-fonctionnalité).
-3. Commitez vos modifications (git commit -m 'Ajout d\'une nouvelle fonctionnalité').
-4. Poussez vers la branche (git push origin feature/ma-fonctionnalité).
+2. Créez une branche pour votre fonctionnalité (`git checkout -b feature/ma-fonctionnalité`).
+3. Commitez vos modifications (`git commit -m 'Ajout d\'une nouvelle fonctionnalité'`).
+4. Poussez vers la branche (`git push origin feature/ma-fonctionnalité`).
 5. Ouvrez une Pull Request.
 
 ## Licence
