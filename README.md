@@ -1,1 +1,1 @@
-# dataviz_with_pyscript_-_plotly
+# dataviz_with_pyscript_and_plotly
