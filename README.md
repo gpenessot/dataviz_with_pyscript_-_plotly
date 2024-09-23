@@ -65,6 +65,12 @@ Les données utilisées dans ce projet proviennent de sources fiables. Les fichi
 - `globaltemp.csv` : Données sur la température mondiale de 1880 à 2023.
 - `hadcrutworld.csv` : Données sur les émissions de CO2.
 
+## Démonstration
+
+Le dashboard est déployée [ici](https://gpenessot.github.io/dataviz_with_pyscript_and_plotly/)
+
+![](./img/screenshot.png)
+
 ## Contributions
 
 Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, veuillez suivre ces étapes :
