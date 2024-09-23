@@ -9,7 +9,7 @@ subheader = "Évolution de la température mondiale et des émissions de CO2 au 
 description = """Le graphique montre l'augmentation de la température année après année.
 Les données couvrent les années de 1880 à 2023 et incluent les anomalies de température pour chaque mois de chaque année ainsi que les températures moyennes pour des groupes de mois tels que de juin à août.
 Les données sur les émissions de CO2 couvrent une période similaire, et vous pouvez voir une corrélation entre les deux ensembles de données."""
-footer = """Dashboard créé avec ❤️, PyScript & Plotly - © Gaël Penessot"""
+footer = """Dashboard créé avec ❤️, PyScript & Plotly - © Gaël Penessot 2024"""
 
 
 # Afficher les titres et la description
