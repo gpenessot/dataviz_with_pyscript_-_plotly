@@ -67,7 +67,7 @@ Les données utilisées dans ce projet proviennent de sources fiables. Les fichi
 
 ## Démonstration
 
-Le dashboard est déployée [ici](https://gpenessot.github.io/dataviz_with_pyscript_and_plotly/)
+Le dashboard est déployé [ici](https://gpenessot.github.io/dataviz_with_pyscript_and_plotly/)
 
 ![](./img/screenshot.png)
 
