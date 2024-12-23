@@ -91,6 +91,6 @@ Pour toute question ou suggestion, n'hésitez pas à me contacter :
 
 LinkedIn : [Gaël Penessot](https://www.linkedin.com/in/gael-penessot/)  
 Email : gael.penessot@data-decision.io  
-GitHub : [gpenessot](https://github.com/gpenessot)  
+GitHub : [gpenessot](https://github.com/gpenessot)
 
 Merci d'avoir consulté ce projet ! 🎉
